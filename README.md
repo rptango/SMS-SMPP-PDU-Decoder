@@ -5,5 +5,5 @@ A lightweight utility that converts hex-encoded SMPP packets into a structured P
 See License.md
 
 # Credits
-Thanks to the awesome work from [[[[ for adding support for 'more_messages_to_send'](https://github.com/mozes)](https://github.com/mozes)](https://github.com/mozes)](https://github.com/mozes) and his library.
-- https://github.com/mozes/smpp.pdu
+\n **Thanks to the awesome work from https://github.com/mozes and his library.**
+\n - https://github.com/mozes/smpp.pdu
