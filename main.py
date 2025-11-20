@@ -76,7 +76,7 @@ def main(page: ft.Page):
 
     header_image = ft.Container(
         content=ft.Image(
-            src="./github-mark.png",
+            src="https://brand.github.com/_next/static/media/logo-04.9a1517f0.png",
             width=150,
             height=150,
             fit=ft.ImageFit.COVER,
@@ -124,6 +124,5 @@ def main(page: ft.Page):
             horizontal_alignment=ft.CrossAxisAlignment.CENTER,
         )
     )
-
 if __name__ == "__main__":
     ft.app(target=main)
